@@ -11,5 +11,5 @@ if (args.length > 0) {
     }
     console.log(co.total()); 
 } else {
-    console.log('No name provided!');
+    console.log('No argument provided!');
 }
